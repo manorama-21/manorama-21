@@ -1,6 +1,6 @@
 ![logo](https://github.com/manorama-21/manorama-21/blob/main/R.jpg)
 <h1 align="center">Hi 👋, I'm Manorama</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Web Developer from Prayagraj</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
