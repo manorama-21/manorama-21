@@ -1,4 +1,4 @@
-|[logo](https://github.com/manorama-21/manorama-21/blob/main/R.jpg)
+![logo](https://github.com/manorama-21/manorama-21/blob/main/R.jpg)
 <h1 align="center">Hi 👋, I'm Manorama</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
