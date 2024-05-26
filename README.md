@@ -17,6 +17,8 @@
 - 📫 How to reach me **manorama210688@gmail.com**
 
 - 📄 Know about my experiences [https://portfolio-shzw.onrender.com/](https://portfolio-shzw.onrender.com/)
+- https://medium.com/@manorama210688
+- https://www.linkedin.com/in/manorama-saroj-13b390216
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
