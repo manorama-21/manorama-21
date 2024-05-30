@@ -23,6 +23,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/manorama saroj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manorama saroj" height="30" width="40" /></a>
+  <a href=" https://medium.com/@manorama210688" target="blank"><img align="center" src="https://th.bing.com/th/id/R.0bee55e6075f401dd947a5efabfe073b?rik=vCRehsK38zeZnA&riu=http%3a%2f%2fimg2.diglog.com%2fimg%2f2020%2f10%2f48eb8946dc86cd6bc1ce25475bbf8e2b.jpg&ehk=uFW4Zg2vN9YBJ09%2bx50uvoRgBg6Vfy2XFL1WCCAzD%2bE%3d&risl=&pid=ImgRaw&r=0)" alt="manorama saroj" height="30" width="40" /></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
